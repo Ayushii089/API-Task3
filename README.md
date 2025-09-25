@@ -23,9 +23,3 @@ A simple RESTful API built with **Node.js** and **Express.js** to manage a colle
 - Postman (or any API testing tool)  
 
 ---
-
-## 🔹 How to Run
-
-1. Clone the repository:
-```bash
-git clone <repository-url>
